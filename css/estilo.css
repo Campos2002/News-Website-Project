@@ -142,6 +142,10 @@ body.fotos #navegacao a#fotos{
     margin-top: 5px;
 }
 
+.text-align-justify{
+    text-align: justify;
+}
+
 h2{
     font-size: 1.1em;
     background: #294c71;
